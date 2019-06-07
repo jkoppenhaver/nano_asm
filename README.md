@@ -14,7 +14,7 @@
 1. Download at [AVRdude Website](http://download.savannah.gnu.org/releases/avrdude/).
 1. The apt version of AVRdude works for me so you are on your own.
 1. ???
-### Apt Repo
+### Apt Repo (Recommended)
 1. `sudo apt install avrdude -y`
 # Helpful Documents
 * [ATmega328P Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)

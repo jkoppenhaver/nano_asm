@@ -23,6 +23,7 @@
  * I/O Ports on page 58
  * General Purpose Registers on page 12
 * [Arduino Nano Graphical Pinout](http://www.lehelmatyus.com/wp-content/uploads/2016/12/arduino-nano-pins.png)
+![nano_pic](http://www.lehelmatyus.com/wp-content/uploads/2016/12/arduino-nano-pins.png)
 
 # Running Code
 ## Assemble

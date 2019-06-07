@@ -1,6 +1,6 @@
 # Software Needed
 ## Assembler (avra)
-### Build From Source (Recomended)
+### Build From Source (Recommended)
 1. `sudo apt install make build-essential -y`
 1. `git clone https://github.com/hsoft/avra`
 1. `cd avra`
